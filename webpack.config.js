@@ -7,8 +7,3 @@ module.exports = {
         filename: "my-bundle.js"
     }
 }
-
-devServer: {
-    
-}
-
